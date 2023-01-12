@@ -3,7 +3,7 @@
 </font>
 -----
 Mannoroth
-* Death Strike  
+* Death Strike [Q]  
 &emsp;Damage increased from 45 to 60.
 
 Alarak
