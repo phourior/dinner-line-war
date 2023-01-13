@@ -61,4 +61,48 @@ Level bonus
 * Weapon damage bonus increased from 2 to 5.
 * No longer increases weapon speed.	
 * No longer increases energy regen or energy speed.
-------
+-----
+<font size=2> 01/13/2023
+</font>
+-----
+Artanis  
+* Weapon speed increased from 1.4 to 1.35.  
+* Deadly Bonds [Q]  
+&emsp;Damage decreased from 40 to 35.  
+* Reconstruction Beam [R]  
+&emsp;Healing rate decreased from 30 to 25.
+
+Stukov  
+* Regeneration Aura [E]  
+&emsp;Healing rate increased from 3 to 5.  
+
+Vol'jin  
+* Acid Bomb [Q]  
+&emsp;Effect Radius increased from 2.5 to 3.  
+
+Uther  
+* Blessing of Might [Q]  
+&emsp;Cooldown decreased from 45 to 30.  
+* Holy Aura [W]  
+&emsp;Healing rate increased from 6 to 8.  
+
+Illidan  
+* Immolation [W]  
+&emsp;Damage increased from 30 to 35.  
+* Evasion [E]  
+&emsp;Maximum level decreased from 8 to 7.  
+
+Samuro  
+* Wind Walk [Q]  
+&emsp;Now deals extra damage equal to 2x weapon damage.
+* Bladestorm [R]  
+&emsp;Mana cost decreased from 125 to 75.  
+&emsp;Cooldown decreased from 180 to 120.  
+
+Alarak  
+* Destruction Wave [Q]  
+&emsp;Cooldown increased from 15 to 20.  
+
+Attribute Bonus  
+* Energy regen per level increased from 0.1 to 0.25.
+-----
