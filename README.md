@@ -106,3 +106,15 @@ Alarak
 Attribute Bonus  
 * Energy regen per level increased from 0.1 to 0.25.
 -----
+<font size=2> 01/14/2023
+</font>
+-----
+* Tier 2 Inventories  
+&emsp;Cost increased by 100%.  
+* Tier 3 Inventories  
+&emsp;Cost increased by 300%.  
+Maiev
+* Fan of knives [Q]  
+&emsp;Mana cost increased from 25 to 35.  
+&emsp;Damage increased from 75 to 100.  
+-----
