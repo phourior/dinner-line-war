@@ -106,3 +106,9 @@ Alarak
 Attribute Bonus  
 * Energy regen per level increased from 0.1 to 0.25.
 -----
+<font size=2> 01/15/2023
+</font>
+-----
+* Tier 2,3,4 mobs health increased by 100%, 200%, 300% respectively  
+* Tier 5 mobs damage increased by 400%.  
+-----
