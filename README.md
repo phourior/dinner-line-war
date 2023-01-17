@@ -118,15 +118,16 @@ Tier 5 mobs
 * damage increased by 400%.  
 -----
 
-<font size=2> 01/16/2023
+<font size=2> 01/17/2023
 </font>
 -----
 
-Drek'thar  
-* Chain Lightning[Q]  
-&emsp;Damage increased from 150 to 200.
-* Energy Conduit[E]  
-&emsp;Now deals damage to 3 units instead of 2.  
+
+Artanis
+* Deadly Bonds [Q]  
+  &emsp;Damage decreased from 35 to 25.
+  &emsp;Duration increased from 4 to 6.
+
 
 Arthas  
 * Unholy Aura[E]  
@@ -135,10 +136,36 @@ Arthas
 * Remorseless Winter[E]  
 &emsp;Effect radius increased from 1.5 to 2.
 
+Cairne
+* Shockwave[Q]  
+  &emsp;Damage increased from 150 to 180.
+* Smash[Q]  
+  &emsp;Mana cost decreased from 35 to 25.
+
+Drek'thar
+* Chain Lightning[Q]  
+  &emsp;Damage increased from 150 to 200.
+* Energy Conduit[E]  
+  &emsp;Now deals damage to 3 units instead of 2.
+
 Muradin
 * Bash[E]  
-&emsp;Trigger rate increased from 20% to 25%.   
+  &emsp;Trigger rate increased from 20% to 25%.
+* Drunken Brawler[E]
+&emsp;Maximum level increased from 5 to 10.
+* Ironforge Fortitude  
+  &emsp;Health regen bonus with enemies nearby increased from 3 times to 4 times.  
+
+Samuro
+* Wind Walk[Q]  
+&emsp;Cooldown decreased from 10 to 8.
+* Bladestorm[R]  
+&emsp;Cooldown decreased from 120 to 60.
 
 Sylvanas
 * Splitting Strikes[R]  
 &emsp;Mana cost per shot decreased from 3 to 2.
+
+Tyrande  
+* Starfall[R]
+&emsp;Cooldown decreased from 180 to 90.
