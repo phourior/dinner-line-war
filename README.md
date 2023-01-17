@@ -122,43 +122,43 @@ Artanis
 
 
 Arthas  
-* Unholy Aura[E]  
+* Unholy Aura [E]  
 &emsp;Healing rate increased from 3 to 5.  
 &emsp;Maximum level increased from 3 to 5.  
-* Remorseless Winter[E]  
+* Remorseless Winter [E]  
 &emsp;Effect radius increased from 1.5 to 2.
 
 Cairne
-* Shockwave[Q]  
+* Shockwave [Q]  
   &emsp;Damage increased from 150 to 180.
-* Smash[Q]  
+* Smash [Q]  
   &emsp;Mana cost decreased from 35 to 25.
 
 Drek'thar
-* Chain Lightning[Q]  
+* Chain Lightning [Q]  
   &emsp;Damage increased from 150 to 200.
-* Energy Conduit[E]  
+* Energy Conduit [E]  
   &emsp;Now deals damage to 3 units instead of 2.
 
 Muradin
-* Bash[E]  
+* Bash [E]  
   &emsp;Trigger rate increased from 20% to 25%.
-* Drunken Brawler[E]
+* Drunken Brawler [E]
 &emsp;Maximum level increased from 5 to 10.
 * Ironforge Fortitude  
   &emsp;Health regen bonus with enemies nearby increased from 3 times to 4 times.  
 
 Samuro
-* Wind Walk[Q]  
+* Wind Walk [Q]  
 &emsp;Cooldown decreased from 10 to 8.
-* Bladestorm[R]  
+* Bladestorm [R]  
 &emsp;Cooldown decreased from 120 to 60.
 
 Sylvanas
-* Splitting Strikes[R]   
+* Splitting Strikes [R]   
 &emsp;Mana cost per shot decreased from 3 to 2.
 
 Tyrande  
-* Starfall[R]  
+* Starfall [R]  
 &emsp;Cooldown decreased from 180 to 90.
 -----
