@@ -125,7 +125,7 @@ Tier 5 mobs
 
 Artanis
 * Deadly Bonds [Q]  
-  &emsp;Damage decreased from 35 to 25.
+  &emsp;Damage decreased from 35 to 25.  
   &emsp;Duration increased from 4 to 6.
 
 
@@ -151,7 +151,7 @@ Drek'thar
 Muradin
 * Bash[E]  
   &emsp;Trigger rate increased from 20% to 25%.
-* Drunken Brawler[E]
+* Drunken Brawler[E]  
 &emsp;Maximum level increased from 5 to 10.
 * Ironforge Fortitude  
   &emsp;Health regen bonus with enemies nearby increased from 3 times to 4 times.  
@@ -167,5 +167,46 @@ Sylvanas
 &emsp;Mana cost per shot decreased from 3 to 2.
 
 Tyrande  
-* Starfall[R]
+* Starfall[R]  
 &emsp;Cooldown decreased from 180 to 90.
+
+<font size=2> 01/18/2023
+</font>
+-----
+
+Alarak    
+* Deadly Charge[W]  
+&emsp;Passive weapon damage bonus increased from 25% to 33%.  
+&emsp;Passive weapon damage bonus per level increased from 25% to 33%.
+
+Artanis
+* Deadly Bonds [Q]  
+  &emsp;Duration decreased from 6 to 5.
+* Shield Overcharge[W]  
+&emsp;Cooldown increased from 20 to 45.  
+&emsp;Now restores all Artanis' shield.  
+&emsp;Passive weapon damage bonus decreased from 25% to 20%.  
+&emsp;Passive weapon damage bonus per level increased from 25% to 40%.
+
+* Astral Wind[E]  
+&emsp;Health regen decreased from 150 to 100.  
+&emsp;Shield regen decreased from 300 to 200.
+
+Cairne
+* Brute[E]  
+&emsp;Max health and health regen rate bonus per level increased from 5% to 6%.
+
+Muradin  
+* Storm Bolt[Q]  
+&emsp;Damage increased from 225 to 300.  
+&emsp;Effect radius decreased from 1.5 to 1.25.
+* Thunder Clap[W]  
+&emsp;Mana cost decreased from 50 to 25.
+
+Health Stone  
+&emsp;Health regen bonus increased from 1.25 to 3.75.  
+&emsp;Health regen when consumed increased from 250 to 1000.
+
+Mana Stone  
+&emsp;Mana regen bonus increased from 0.25 to 0.5.   
+&emsp;Mana regen when consumed increased from 0.25 to 0.5.
