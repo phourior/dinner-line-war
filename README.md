@@ -202,3 +202,32 @@ Mana Stone
 * Mana regen bonus increased from 0.25 to 0.5.   
 * Mana regen when consumed increased from 0.25 to 0.5.  
 -----
+<font size=2> 01/19/2023
+</font>
+-----
+Mana Stone  
+* Cost increased from 75 to 125.  
+
+Greater Energy Tonic  
+* Mana regen increased from 200 to 300.
+
+Samuro  
+* Mirror Image [W]  
+&emsp;Temporarily removed.
+* Searing Strike [W]  
+&emsp;Added.
+
+Nova  
+* Rail Snipe [Q]  
+&emsp;Damage increased from 150 to 225.  
+* EMP Round [W]  
+&emsp;Effect radius increased from 2 to 2.5.  
+* Sharpshooter [E]  
+&emsp;Trigger rate increased from 8% to 10%.  
+
+Swann  
+* Added.
+
+Barracks  
+* Added.
+-----
