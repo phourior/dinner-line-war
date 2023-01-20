@@ -240,3 +240,28 @@ Swann
 
 Barracks  
 &emsp;Added.
+
+<font size=2> 01/20/2023
+</font>
+-----
+
+Tier 2 Mobs  
+&emsp;Spawning cooldown slightly increased.
+
+Swann
+* Pyrocannon[W]  
+&emsp;Damage decreased from 24 to 20.
+* Missile Battery[E]  
+&emsp;Damage decreased from 45 to 40.
+* Drakken Laser[R]  
+&emsp;Damage decreased from 15 to 12.
+
+Vampiric Potion  
+&emsp;Effect duration increased from 20 to 60.  
+&emsp;Lifesteal rate bonus decreased from 50% to 33%.
+
+Mannoroth
+* Rain of Fire[Q]  
+&emsp;Damage each wave increased from 30 to 35.
+* Doom[R]  
+&emsp;Damage increased from 45 to 80.
