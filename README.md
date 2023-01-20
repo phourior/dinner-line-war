@@ -254,4 +254,23 @@ Mannoroth
 &emsp;Damage each wave increased from 30 to 35.  
 * Doom [R]  
 &emsp;Damage increased from 45 to 80.  
+
+Stukov
+* Caustic Artillery [Q]  
+&emsp;Cooldown increased from 10 to 15.  
+&emsp;Able to deal damage to enemy heroes.
+* Nydus Dragon [R]  
+&emsp;Weapon speed decreased from 1 to 1.44.
+* Acid Nova [R]  
+&emsp;Base damage increased from 40 to 60.
+* Healing Swarm [R]  
+&emsp;Recovered.
+
+Maiev
+* Shadow Strike [Q]  
+&emsp;Cooldown decreased from 20 to 12.
+* Assassinate [Q]  
+&emsp;Cooldown decreased from 20 to 12.
+* Whirling Blades [E]  
+&emsp;Damage increased from 45 to 60.
 -----
