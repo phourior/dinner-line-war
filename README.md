@@ -234,31 +234,47 @@ Barracks
 <font size=2> 01/20/2023
 </font>
 -----
+
 Tier 2 Mobs  
-* Spawning cooldown slightly increased.  
+* Spawning cooldown slightly increased.
+
+Tier 3 Mobs  
+* Weapon damage increased by 50%.  
+* Health decreased by 33%.
+
+Tier 4 Mobs  
+* Weapon damage increased by 100%.  
+* Health decreased by 50%.
+
+Antonidas
+* Illuison [Q]  
+&emsp;Mana cost decreased from 25 to 0.  
+&emsp;Cooldown increased from 45 to 60.
+
+* Wise Council [W]  
+&emsp;Mana cost decreased from 50 to 25.
 
 Swann
 * Pyrocannon [W]  
-&emsp;Damage decreased from 24 to 20.  
+&emsp;Damage decreased from 24 to 20.
 * Missile Battery [E]  
-&emsp;Damage decreased from 45 to 40.  
+&emsp;Damage decreased from 45 to 40.
 * Drakken Laser [R]  
-&emsp;Damage decreased from 15 to 12.  
-
-Vampiric Potion  
-* Effect duration increased from 20 to 60.  
-* Lifesteal rate bonus decreased from 50% to 33%.
+&emsp;Damage decreased from 15 to 12.
 
 Mannoroth
 * Rain of Fire [Q]  
-&emsp;Damage each wave increased from 30 to 35.  
+&emsp;Damage each wave increased from 30 to 35.
 * Doom [R]  
-&emsp;Damage increased from 45 to 80.  
+&emsp;Damage increased from 45 to 80.
 
 Stukov
-* Caustic Artillery [Q]  
-&emsp;Cooldown increased from 10 to 15.  
-&emsp;Able to deal damage to enemy heroes.
+* Caustic Artillery [Q]    
+&emsp;Maximum charge decreased from 3 to 2.   
+&emsp;Now able to deal damage to enemy heroes.  
+* Infested Terrans [W]  
+&emsp;Cooldown decreased from 20 to 15.  
+&emsp;Weapon damage decreased from 15 to 12.  
 * Nydus Dragon [R]  
 &emsp;Weapon speed decreased from 1 to 1.44.
 * Acid Nova [R]  
@@ -273,4 +289,8 @@ Maiev
 &emsp;Cooldown decreased from 20 to 12.
 * Whirling Blades [E]  
 &emsp;Damage increased from 45 to 60.
+
+Vampiric Potion  
+* Effect duration increased from 20 to 60.  
+* Lifesteal rate bonus decreased from 50% to 33%.  
 -----
