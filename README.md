@@ -248,6 +248,22 @@ Barracks
 Tier 2 Mobs  
 &emsp;Spawning cooldown slightly increased.
 
+Tier 3 Mobs  
+&emsp;Weapon damage increased by 50%.  
+&emsp;Health decreased by 33%.
+
+Tier 4 Mobs  
+&emsp;Weapon damage increased by 100%.  
+&emsp;Health decreased by 50%.
+
+Antonidas
+* Illuison[Q]  
+  &emsp;Mana cost decreased from 25 to 0.  
+  &emsp;Cooldown increased from 45 to 60.
+
+* Wise Council[W]  
+  &emsp;Mana cost decreased from 50 to 25.
+
 Swann
 * Pyrocannon[W]  
 &emsp;Damage decreased from 24 to 20.
@@ -256,10 +272,6 @@ Swann
 * Drakken Laser[R]  
 &emsp;Damage decreased from 15 to 12.
 
-Vampiric Potion  
-&emsp;Effect duration increased from 20 to 60.  
-&emsp;Lifesteal rate bonus decreased from 50% to 33%.
-
 Mannoroth
 * Rain of Fire[Q]  
 &emsp;Damage each wave increased from 30 to 35.
@@ -267,9 +279,12 @@ Mannoroth
 &emsp;Damage increased from 45 to 80.
 
 Stukov
-* Caustic Artillery[Q]  
-&emsp;Cooldown increased from 10 to 15.  
-&emsp;Able to deal damage to enemy heroes.
+* Caustic Artillery[Q]    
+&emsp;Maximum charge decreased from 3 to 2.   
+&emsp;Now able to deal damage to enemy heroes.  
+* Infested Terrans[W]  
+&emsp;Cooldown decreased from 20 to 15.  
+&emsp;Weapon damage decreased from 15 to 12.  
 * Nydus Dragon[R]  
 &emsp;Weapon speed decreased from 1 to 1.44.
 * Acid Nova[R]  
@@ -284,3 +299,7 @@ Maiev
 &emsp;Cooldown decreased from 20 to 12.
 * Whirling Blades[E]  
 &emsp;Damage increased from 45 to 60.
+
+Vampiric Potion  
+&emsp;Effect duration increased from 20 to 60.  
+&emsp;Lifesteal rate bonus decreased from 50% to 33%.
