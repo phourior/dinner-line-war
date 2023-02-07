@@ -412,3 +412,45 @@ Sylvanas
 * Charm[R]  
   &emsp;Maximum level decreased from 10 to 5.
 
+<font size=2> 01/31/2023
+</font>
+-----
+
+Kael'thas  
+&emsp;Weapon damage point decreased from 0.7 to 0.5.
+
+Sylvanas  
+&emsp;Weapon damage increased from 28 to 36.
+* Splittering Strikes[R]
+&emsp;Mana cost per shot increased from 2 to 3.
+&emsp;Initial shot count increased from 2 to 3.
+
+<font size=2> 02/03/2023
+</font>
+-----
+
+Artanis
+* Shield Overload[W]  
+&emsp;Cooldown decreased from 45 to 35.
+
+Ragnaros  
+&emsp;Weapon speed increased from 1.3 to 1.
+* Incinerate[E]  
+&emsp;Damage per stack level increased from 5 to 8.
+
+Stukov  
+* Infested Terrans[W]  
+&emsp;Cooldown decreased from 15 to 10.  
+&emsp;Damage decreased from 12 to 8.  
+&emsp;Health decreased from 120 to 80.  
+
+Maiev
+* Fan of Knives[W]  
+&emsp;Damage increased from 100 to 135.
+
+Muradin
+* Thunder Clap[W]  
+&emsp;Extra radius per level decreased from 0.5 to 0.25.
+
+Shops  
+&emsp;Interact range increased from 6 to 10.
